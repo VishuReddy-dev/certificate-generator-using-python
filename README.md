@@ -72,4 +72,6 @@ def limit_name_to_two_words(name):
 ```
 # Output
 Certificates are saved in the certificates/ folder with filenames formatted as <Recipient Name>_certificate.png.
+![image](https://github.com/user-attachments/assets/81ddcee5-f90f-4cdd-883b-5636d82d7add)
+
 
